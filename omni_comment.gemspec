@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = OmniComment::VERSION
   s.authors     = ["Andersen Fan"]
   s.email       = ["as181920@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of OmniComment."
-  s.description = "TODO: Description of OmniComment."
+  s.homepage    = ""
+  s.summary     = "Common comment support"
+  s.description = "Allow comment to any target by anyone"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]

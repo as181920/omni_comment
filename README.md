@@ -1,24 +1,18 @@
 # OmniComment
-Short description and motivation.
+通用评论功能(Rails engine)
 
 ## Usage
-How to use my plugin.
 
 ## Installation
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'omni_comment'
+gem 'omni_comment', git: "git@github.com:as181920/omni_comment.git", branch: "master"
 ```
 
 And then execute:
 ```bash
 $ bundle
-```
-
-Or install it yourself as:
-```bash
-$ gem install omni_comment
 ```
 
 ## Contributing
