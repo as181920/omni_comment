@@ -4,8 +4,7 @@ zh-CN:
     engine: "通用备注模块"
   activerecord:
     models:
-      omni_comment/comment: "角色"
-      omni_comment/permission: "权限"
+      omni_comment/comment: "备注"
     attributes:
       omni_comment/comment:
         id: "ID"
