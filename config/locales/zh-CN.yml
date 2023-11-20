@@ -1,0 +1,14 @@
+---
+zh-CN:
+  omni_comment:
+    engine: "通用备注模块"
+  activerecord:
+    models:
+      omni_comment/comment: "角色"
+      omni_comment/permission: "权限"
+    attributes:
+      omni_comment/comment:
+        id: "ID"
+        content: "内容"
+        created_at: "创建于"
+        updated_at: "更新于"
